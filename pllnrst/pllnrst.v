@@ -5,7 +5,7 @@ copyright CY
 Filename    : 
 Compiler    : Quartus II 9.1
 simulator	  : ModelSim 6.5b
-Description : 
+Description : 复位及PLL管理
 Release     : 
 */
 
