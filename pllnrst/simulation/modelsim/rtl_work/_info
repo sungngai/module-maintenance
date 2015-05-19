@@ -1,0 +1,65 @@
+m255
+K3
+13
+cModel Technology
+Z0 dE:\module maintenance\pllnrst\simulation\modelsim
+vpll
+I[zW2BYKBS89@3W5dU[E`83
+V_XSVm9JT6dEoXJ=[=cVXa3
+w1432014200
+8E:/module maintenance/pllnrst/pll.v
+FE:/module maintenance/pllnrst/pll.v
+L0 39
+Z1 OV;L;6.5b;42
+r1
+31
+Z2 o-vlog01compat -work work -O0
+Z3 !s92 -vlog01compat -work work {+incdir+E:/module maintenance/pllnrst} -O0
+!s100 :[;_>IOz3Hl[BP38b8aPC0
+!s85 0
+!s101 -O0
+vpll_altpll
+I0MOLXNC5fIG<L>ooM922g1
+V?DF8j=RJ_EcKZlDzF;fMW0
+w1432016105
+8E:/module maintenance/pllnrst/db/pll_altpll.v
+FE:/module maintenance/pllnrst/db/pll_altpll.v
+L0 30
+R1
+r1
+31
+R2
+!s100 6YKT_lC[D[K<Udg4czX4S3
+!s85 0
+!s101 -O0
+!s92 -vlog01compat -work work {+incdir+E:/module maintenance/pllnrst/db} -O0
+vpllnrst
+I2a9D>RGc5IOGA_lQ^G@LL0
+VV]]X21]=S3LW[oC=74;io2
+w1432018069
+8E:/module maintenance/pllnrst/pllnrst.v
+FE:/module maintenance/pllnrst/pllnrst.v
+L0 12
+R1
+r1
+31
+R2
+R3
+!s100 2?TNk9>F1CNbgQ1fIAn6b0
+!s85 0
+!s101 -O0
+vpllnrst_vlg_tst
+!s100 72F`meO^YdeVdKL[_G]371
+IhG4^OKjTL1=K6HU1QgQhz0
+VDA_PiLH1=2[M09>Xgd?4S3
+w1432017267
+8E:/module maintenance/pllnrst/simulation/modelsim/pllnrst.vt
+FE:/module maintenance/pllnrst/simulation/modelsim/pllnrst.vt
+L0 28
+R1
+r1
+!s85 0
+31
+!s101 -O0
+R2
+!s92 -vlog01compat -work work {+incdir+E:/module maintenance/pllnrst/simulation/modelsim} -O0
